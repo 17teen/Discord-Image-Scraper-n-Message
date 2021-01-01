@@ -20,6 +20,8 @@ Quickly fetch whole message history of a Discord channel and extracts attachment
 
 *Inspired by [overlisted's message fetcher](https://github.com/overlisted/discord-messages-fetch)*
 
+### Contact Me
+
 | Discord | Discord Server | Telegram |
 | ------------- | ------------- | ------------- | 
 | [7teen](https://discord.com/users/709827684888215582) | [Server](https://discord.gg/section) | [7teen](https://t.me/clairvoyant7teen) |
