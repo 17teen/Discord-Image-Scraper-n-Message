@@ -8,7 +8,7 @@ Quickly fetch whole message history of a Discord channel and extracts attachment
 
 ### Usage: Messages
 - Run the `Launch.bat` file to install node modules.
-- Place [your Discord token](https://discordhelp.net/discord-token) to the `Token.txt` file | Make your own.
+- Place [your Discord token](https://discordhelp.net/discord-token) to the `Token.txt` file | Make your own (Case sensitive).
 - Copy the channel's [ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID) you wish to be scraped.
 - Run the script with command `node index.js <CHANNEL ID>` in the terminal.
 - A complete list of all messages in that channel is now in the file `messages.json` file.
